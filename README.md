@@ -17,6 +17,7 @@ The primary goal of this project is to provide a comprehensive analysis of educa
 ## Data Source
 
 The project utilizes data from various sources, including the Human Development Index Report of the United Nations Development Program, to gather information on literacy rates, government education spending, and other relevant indicators.
+https://data.worldbank.org/
 
 ## Tech Stack Used
 R Interactive Libraries: Dynamic visualizations were created using R and interactive libraries such as Rshiny and Plotly to provide engaging and informative charts.
