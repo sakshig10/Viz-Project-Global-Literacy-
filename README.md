@@ -1,32 +1,18 @@
-# Viz-Project-Global-Literacy-
-# Education and Literacy Worldwide
-https://sites.google.com/view/globalliteracy/home?authuser=0
+# Global Literacy: Understanding the Power of Education
 
-## Overview
+In this project you will find interactive, dynamic and engaging visualizations in R (Rshiny, Plotly), Flourish and Datawrapper. The story or the flow of these visualizations are all displayed in the form of a website as the outcome of the project. The website/webpage is created using Google Sites.
+The title of the project is “Global Literacy".
 
-Education and literacy are fundamental human rights and key drivers of sustainable development. However, millions of people worldwide still lack access to quality education and struggle with illiteracy. This project aims to analyze education and literacy worldwide, using various indicators, to identify trends and patterns. The analysis will help in understanding the current state of education and literacy globally, highlighting disparities and areas where improvements are needed to achieve the United Nations Sustainable Development Goal 4 (SDG4) - inclusive and equitable quality education for all.
+We begin by examining the global conditions of literacy. What is the current state of literacy around the world? How has it evolved over time? We use dynamic visualizations to paint a comprehensive picture of literacy rates across different regions and countries. To gain a deeper understanding, we delve into the literacy landscape in the recent past. Our dynamic visualizations provide insights into the latest literacy statistics and trends.
 
-## Problem Setting
+This is a link to the website to view the visualizations: https://sites.google.com/view/globalliteracy/home?authuser=0
 
-Despite the importance of education and literacy, there are significant disparities in access and attainment around the world. Many factors contribute to the literacy rate, including government education spending, gender inequality, and regional differences. This project seeks to address these issues and provide insights into the current state of education and literacy on a global scale.
-
-## Problem Definition
-
-The primary goal of this project is to provide a comprehensive analysis of education and literacy worldwide. Key factors, such as literacy rates, government education spending, gender inequality, and their impact on development indexes, will be explored. The analysis will help identify areas of progress and areas where improvement is needed to promote education and literacy as essential human rights.
+The primary goal of this project is to provide a comprehensive analysis of education and literacy worldwide. Key factors, such as literacy rates, government education spending, gender inequality, and their impact on development indexes, are explored. The analysis will help identify areas of progress and areas where improvement is needed to promote education and literacy as essential human rights.
 
 ## Data Source
 
 The project utilizes data from various sources, including the Human Development Index Report of the United Nations Development Program, to gather information on literacy rates, government education spending, and other relevant indicators from
 https://data.worldbank.org/
-
-## Tech Stack Used
-R Interactive Libraries: Dynamic visualizations were created using R and interactive libraries such as Rshiny and Plotly to provide engaging and informative charts.
-
-Flourish: Flourish was used to generate visually appealing and interactive visualizations, which were then embedded in the project website.
-
-Datawrapper: Datawrapper was utilized to create data visualizations in HTML format, which were seamlessly integrated into the project website.
-
-Google Sites: The project's story and visualizations were presented in the form of a website using Google Sites, providing an organized and accessible platform for the audience.
 
 ## Results
 
@@ -41,6 +27,6 @@ The project's analysis has yielded several key findings:
 
 ## Impact of Project Outcome
 
-The project's findings have the potential to inform policies and initiatives aimed at promoting education and literacy on a global scale. By understanding the factors that influence literacy rates and the correlation with development indexes, governments and organizations can make informed decisions to bridge educational disparities and promote sustainable development.
+The project's findings have the potential to inform policies and initiatives aimed at promoting education and literacy on a global scale. By understanding the factors that influence literacy rates and their correlation with development indexes, governments and organizations can make informed decisions to bridge educational disparities and promote sustainable development.
 
 For more details and interactive visualizations, please explore the project's datasets and findings in the provided links.
