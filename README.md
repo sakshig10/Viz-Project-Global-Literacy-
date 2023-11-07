@@ -27,6 +27,6 @@ The project's analysis has yielded several key findings:
 
 ## Impact of Project Outcome
 
-The project's findings have the potential to inform policies and initiatives aimed at promoting education and literacy on a global scale. By understanding the factors that influence literacy rates and their correlation with development indexes, governments and organizations can make informed decisions to bridge educational disparities and promote sustainable development.
+The project's findings have the potential to transform policies and initiatives aimed at promoting education and literacy on a global scale. By understanding the factors that influence literacy rates and their correlation with development indexes, governments and organizations can make informed decisions to bridge educational disparities and promote sustainable development.
 
 For more details and interactive visualizations, please explore the project's datasets and findings in the provided links.
